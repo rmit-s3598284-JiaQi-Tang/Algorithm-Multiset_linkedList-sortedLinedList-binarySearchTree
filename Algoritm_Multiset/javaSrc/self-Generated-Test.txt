@@ -1,0 +1,16 @@
+S apple
+S dog
+RO god
+A apple
+RO dog
+RO god
+S apple
+A frog
+A frog
+RO cat
+S egg
+S apple
+S cat
+S boy
+P
+Q
